@@ -5,7 +5,7 @@
 > "It's so bad it's not even funny!" -kantiankant, 2026
 
 
-Swindle is a fork of [dwl](https://codeeberg.org/dwl/dwl) that was designed from the start with one goal: to make it feel like the poor man's Hyprland. It has the following:
+Swindle is a fork of [dwl](https://codeberg.org/dwl/dwl) that was designed from the start with one goal: to make it feel like the poor man's Hyprland. It has the following:
 
 * NO cool vfx
 * nearly NO documentation
